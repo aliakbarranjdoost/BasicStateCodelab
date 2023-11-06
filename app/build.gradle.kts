@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "dev.aliakbar.basicstatecodelab"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "dev.aliakbar.basicstatecodelab"
